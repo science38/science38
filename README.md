@@ -1,4 +1,4 @@
-- 100% new to this coding thing, nice to meet you. :)
+- i'm still quite new to this damn
 
 <!---
 science38/science38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
